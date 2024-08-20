@@ -1,0 +1,143 @@
+{
+  "studentss": [
+    {
+      "id": "7a86",
+      "firstName": "John",
+      "lastName": "Doe",
+      "group": "React N45",
+      "number": "998996730502"
+    },
+    {
+      "id": "ce1d",
+      "firstName": "Mister",
+      "lastName": "Smith",
+      "group": "React N35",
+      "number": "3333"
+    },
+    {
+      "id": "cd57",
+      "firstName": "Sir",
+      "lastName": "Bin",
+      "group": "React N40",
+      "number": "222222222222222"
+    },
+    {
+      "id": "bf39",
+      "firstName": "Uzbek",
+      "lastName": "Muhinov",
+      "number": "12345678",
+      "group": "React N35"
+    },
+    {
+      "id": "f2b7",
+      "firstName": "Arip",
+      "lastName": "ss",
+      "number": "3333",
+      "group": "React N35"
+    },
+    {
+      "id": "9700",
+      "firstName": "Husan",
+      "lastName": "ss",
+      "number": "3333",
+      "group": "React N35"
+    },
+    {
+      "id": "0f53",
+      "firstName": "Kazah",
+      "lastName": "ss",
+      "number": "3333",
+      "group": "React N35"
+    },
+    {
+      "id": "91ac",
+      "firstName": "Husan",
+      "lastName": "m",
+      "number": "3333",
+      "group": "React N35"
+    },
+    {
+      "id": "5bb2",
+      "firstName": "ss",
+      "lastName": "ssss",
+      "number": "55555555",
+      "group": "React N35"
+    },
+    {
+      "id": "471f",
+      "firstName": "ццццццц",
+      "lastName": "wwww",
+      "number": "4444",
+      "group": "React N45"
+    },
+    {
+      "id": "68d0",
+      "firstName": "ss",
+      "lastName": "уу",
+      "number": "5555",
+      "group": "React N40"
+    },
+    {
+      "id": "f073",
+      "firstName": "John",
+      "lastName": "Doe",
+      "number": "11",
+      "group": "React N35"
+    }
+  ],
+  "user": {
+    "username": "Uzbekistan",
+    "password": "11111"
+  },
+  "teachers": [
+    {
+      "id": "1",
+      "firstName": "Sultonqul",
+      "lastName": "Nortoyloqov",
+      "groups": "React N45,React N40,React N33",
+      "level": "Senior"
+    },
+    {
+      "id": "2",
+      "firstName": "Ixtiyor",
+      "lastName": "Vohobjonov",
+      "groups": "React N45,React N40,React N33",
+      "level": "Middle"
+    },
+    {
+      "id": "8fe1",
+      "firstName": "John",
+      "lastName": "Doe",
+      "groups": "React N45,React N40,React N33",
+      "level": "Middle"
+    },
+    {
+      "id": "0b0c",
+      "firstName": "Mister",
+      "lastName": "Smith",
+      "groups": "React N45,React N40,React N33",
+      "level": "Junior"
+    },
+    {
+      "id": "55b7",
+      "firstName": "ss",
+      "lastName": "sss",
+      "groups": "React N45,React N40,React N33",
+      "level": "Middle"
+    },
+    {
+      "id": "d105",
+      "firstName": "ssssss",
+      "lastName": "sssssss",
+      "groups": "ssssssssssss",
+      "level": "Middle"
+    },
+    {
+      "id": "1d84",
+      "firstName": "Ortiq",
+      "lastName": "Tolinov",
+      "groups": "React N45,React N40,React N33",
+      "level": "Middle"
+    }
+  ]
+}
